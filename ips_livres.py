@@ -1,5 +1,3 @@
-#!/etc/bin/bash
-
 # Data: 31/05/2023
 # Autor: Matheus Marques
 # Esse script verifica quais ips estão livres para utilizar em novos dispositivos
